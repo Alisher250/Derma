@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DermaMarker'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AD397B0D34641588089412680C80442 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DF96F532B0F49B788E2F648DF29763E }}
